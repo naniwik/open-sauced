@@ -11,6 +11,7 @@ function Hero({handleLogIn}) {
         <Card>
           <FlexColumnCenter>
             <h1>Open Sauced Dashboard</h1>
+            <br />
             <p>Login with GitHub to start tracking open source projects.</p>
             <br />
             <FlexCenter>
